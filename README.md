@@ -1,1 +1,0 @@
-# DERET-ANGKA-C-
